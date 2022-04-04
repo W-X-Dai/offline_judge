@@ -1,0 +1,14 @@
+Execution time:Sun Apr 03 20:26:18 2022
+testcase #0
+0.002 Accept
+testcase #1
+0 Accept
+testcase #2
+0.002 Accept
+testcase #3
+0.001 Accept
+testcase #4
+0.001 Accept
+
+Final result:Accept
+AC code:100179055678
